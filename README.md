@@ -39,4 +39,4 @@ For this assignment, it will be beneficial to first complete `createList`
 and `deleteNode` functions before trying to complete `eliminate`, as 
 these are important building blocks for the `eliminate` function, 
 which is the most complicated piece of this assignment. While working on `createList` 
-and `deleteNode`, you are encouraged to write your own test cases to ensure your code is working as expected. For the submission on gradescope, you should submit the `hw11.c` file alone without the need for zipping.
+and `deleteNode`, you are encouraged to write your own test cases to ensure your code is working as expected.

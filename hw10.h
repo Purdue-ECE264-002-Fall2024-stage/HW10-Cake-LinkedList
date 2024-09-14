@@ -2,8 +2,8 @@
 // *** You may modify this file but don't submit it.
 // ***
 
-#ifndef HW11_H
-#define HW11_H
+#ifndef HW10_H
+#define HW10_H
 #include <stdlib.h>
 
 typedef struct node {
